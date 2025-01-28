@@ -1,3 +1,4 @@
+//program to check whether eligible to vote or not
 #include <stdio.h>
 
 int main()
