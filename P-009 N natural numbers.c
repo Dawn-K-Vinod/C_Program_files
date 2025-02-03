@@ -1,3 +1,8 @@
+/*
+Author      : Dawn K Vinod
+Date        : 01/02/2025
+Description : Program to print first N natural nummbers.
+*/
 #include <stdio.h>
 
 int main() {
