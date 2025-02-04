@@ -1,4 +1,8 @@
-// printing even numbers upto the limit
+/*
+Author     : Dawn K Vinod
+Date       : 04/02/2025
+Description: printing even numbers upto the limit
+*/
 #include <stdio.h>
 int main() {
     int limit;
