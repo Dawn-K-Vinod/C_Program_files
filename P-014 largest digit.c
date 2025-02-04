@@ -1,3 +1,8 @@
+/*
+Author     : Dawn K Vinod
+Date       : 04/02/2025
+Description: Largest digit in the given number.
+*/
 #include <stdio.h>
 
 int main() {
