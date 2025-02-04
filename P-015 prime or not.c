@@ -1,4 +1,8 @@
-//
+/*
+Author     : Dawn K Vinod
+Date       : 04/02/2025
+Description: Check whether the given number is prime or not.
+*/
 #include <stdio.h>
 int main() {
     int num;
