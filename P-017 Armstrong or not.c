@@ -1,4 +1,10 @@
-// Armstrong number example is 153, that is 1^3 + 5^3 +3^3 = 153
+/*
+Author     : Dawn K Vinod
+Date       : 04/02/2025
+Description: Check whether the given number is an Armstrong number or not.
+*/
+
+// One example of Armstrong number is 153, that is 1^3 + 5^3 +3^3 = 153
 #include <stdio.h>
 int main() {
     int num;
