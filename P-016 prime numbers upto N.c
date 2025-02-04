@@ -1,4 +1,8 @@
-
+/*
+Author     : Dawn K Vinod
+Date       : 04/02/2025
+Description: Program to print Prime numbers upto a number.
+*/
 #include <stdio.h>
 
 int main() {
