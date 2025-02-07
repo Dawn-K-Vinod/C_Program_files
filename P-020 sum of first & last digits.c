@@ -1,3 +1,8 @@
+/*
+Author      : Dawn K Vinod
+Date        : 06/02/2025
+Description : Program to calculate the sum of first and last digits of a number.
+*/
 #include <stdio.h>
 int main() {
 	int num;
