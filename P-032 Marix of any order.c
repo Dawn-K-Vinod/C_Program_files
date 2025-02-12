@@ -1,4 +1,8 @@
-
+/*
+Author      : Dawn K Vinod
+Date        : 12/02/2025
+Description : Program to create and display Matrix of any order.
+*/
 #include <stdio.h>
 
 int main() {
