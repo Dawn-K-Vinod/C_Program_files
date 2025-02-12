@@ -1,3 +1,8 @@
+/*
+Author      : Dawn K Vinod
+Date        : 12/02/2025
+Description : Program to search for the given number in an array and dispaly the message if found or not.
+*/
 #include <stdio.h>
 int main() {
 	int n;
