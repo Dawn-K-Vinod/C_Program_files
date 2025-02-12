@@ -1,7 +1,7 @@
 /*
 Author      : Dawn K Vinod
 Date        : 12/02/2025
-Description : Program to display all the prime numbers within a range.
+Description : Program to display all the prime numbers within a range. (user-defined function created)
 */
 #include <stdio.h>
 #include <math.h>
