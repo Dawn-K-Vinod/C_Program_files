@@ -1,3 +1,13 @@
+/*
+Author      : Dawn K Vinod
+Date        : 12/02/2025
+Description : Program to display the maximum and minimum in an array along with its positions (not index).
+*/
+/* 
+If you want to display the index of the max and min instead of their position,  
+initialize `pos1` and `pos2` to `0` instead of `1` on line 23,  
+and remove the `+1` from `pos1 = i + 1;` and `pos2 = i + 1;` on lines 27 and 31.
+*/
 #include <stdio.h>
 int main() {
 	int n;
