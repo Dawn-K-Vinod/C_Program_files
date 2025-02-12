@@ -1,3 +1,8 @@
+/*
+Author      : Dawn K Vinod
+Date        : 12/02/2025
+Description : Program to find the frequency of a given number in an array.
+*/
 #include <stdio.h>
 int main() {
 	int n;
