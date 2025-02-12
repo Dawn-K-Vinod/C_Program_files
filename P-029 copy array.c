@@ -1,3 +1,8 @@
+/*
+Author      : Dawn K Vinod
+Date        : 12/02/2025
+Description : Program to create a copy of an array.
+*/
 #include <stdio.h>
 int main() {
 	int n;
