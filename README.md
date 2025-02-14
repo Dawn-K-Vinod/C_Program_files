@@ -96,7 +96,9 @@ Contributions are welcome! If you want to add more C programs or improve existin
    ```sh
    git push origin new-feature
 
-6. **Create a Pull Request (PR) to the main branch.**
+6. **Create a Pull Request (PR) to the main branch. (in GitHub)**
+
+---
 
 ## 📜 License
 
