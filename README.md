@@ -55,8 +55,58 @@ This repository is a collection of C programs designed to solve common problems 
 
 ## 🚀 Usage  
 
-To compile and run any of the programs:  
+To use any of the C programs in this repository:
 
-```sh
-gcc program_name.c -o output_name
-./output_name
+1. **Clone the repository using:**
+   ```sh
+   git clone https://github.com/Dawn-K-Vinod/C_Program_files.git
+   
+2. **Navigate to the project folder:**
+   ```sh
+   cd C_Program_files
+
+3. **Compile any program using GCC:**
+   ```sh
+   gcc P-001_Hello_World.c -o hello
+
+4. **Run the compiled program:**
+   ```sh
+   ./hello
+
+
+# 🤝 Contributing
+
+Contributions are welcome! If you want to add more C programs or improve existing ones, follow these steps:
+
+### Steps to Contribute:
+1. **Fork the repository.**
+2. **Clone your forked repository:**
+   ```sh
+   git clone https://github.com/your-username/C_Program_files.git
+
+3. **Create a new branch for your contribution:**
+   ```sh
+   git checkout -b new-feature
+
+4. **Make the necessary changes and commit:**
+   ```sh
+   git commit -m "Added new C program: P-XXX"
+
+5. **Push the changes:**
+   ```sh
+   git push origin new-feature
+
+6. **Create a Pull Request (PR) to the main branch.**
+
+## 📜 License
+
+This repository is licensed under the **MIT** License.
+Feel free to use, modify, and distribute the code as per the license terms.
+
+## ⭐ Show Your Support
+
+If you find this repository useful, please consider starring ⭐ the repo to show your support!
+
+
+
+
