@@ -83,6 +83,10 @@ To use any of the C programs in this repository:
 ## 📌 Requirements  
 
 Ensure you have a C compiler installed, such as **GCC (GNU Compiler Collection)**, before compiling and running these programs.
+- For Windows: Follow this [guide](https://code.visualstudio.com/docs/cpp/config-mingw#_installing-the-mingww64-toolchain) to install and run GCC.
+- For Linux: Follow this [guide](https://code.visualstudio.com/docs/cpp/config-linux#_ensure-gcc-is-installed) to install and run GCC.
+
+
 
 ---
 
