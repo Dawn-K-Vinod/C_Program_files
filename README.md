@@ -56,7 +56,7 @@ This repository is a collection of C programs designed to solve common problems 
 
 ---
 
-## Usage  
+## 🚀 Usage  
 
 To use any of the C programs in this repository:
 
