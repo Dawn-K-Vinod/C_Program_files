@@ -5,7 +5,7 @@ This repository contains various C programs written by **Dawn K Vinod**. These p
 ## 📑 Table of Contents  
 - [Introduction](#introduction)  
 - [List of Programs](#list-of-programs)  
-- [Usage](#usage)  
+- [Usage](#-usage)  
 - [Requirements](#requirements)  
 - [Contributing](#contributing)  
 - [License](#license)  
