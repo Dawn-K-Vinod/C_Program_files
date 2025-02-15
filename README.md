@@ -3,13 +3,13 @@
 This repository contains various C programs written by **Dawn K Vinod**. These programs cover a range of topics, including array manipulation, matrix operations, mathematical calculations, and fundamental C programming concepts.
 
 ## 📑 Table of Contents  
-- [Introduction](#introduction)  
-- [List of Programs](#list-of-programs)  
+- [Introduction](#-introduction)  
+- [List of Programs](#-list-of-programs)  
 - [Usage](#-usage)  
-- [Requirements](#requirements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Show Your Support](#show-your-support)  
+- [Requirements](#-requirements)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+- [Show Your Support](#-show-your-support)  
 
 ## 📝 Introduction  
 
