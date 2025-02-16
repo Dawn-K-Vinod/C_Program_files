@@ -1,22 +1,31 @@
 /*
-Author     : Dawn K Vinod
-Date       : 04/02/2025
-Description: Check whether the given number is an Armstrong number or not.
+Author      : Dawn K Vinod
+Date        : 16/02/2025
+Description : Program to check whether the given number is armstrong or not.
 */
-
-// One example of Armstrong number is 153, that is 1^3 + 5^3 +3^3 = 153
 #include <stdio.h>
+#include <math.h>
+
+int is_armstrong(int num) {
+    if (num<=0) { return 0;}
+    int rem, copy=num, sum=0, len=(int)log10(num)+1;
+    while (copy!=0) {
+        rem = copy % 10;
+        sum += pow(rem,len);
+        copy /= 10;
+    }
+    if (sum==num) {
+        return 1;
+    }
+    return 0;
+}
+
 int main() {
     int num;
     printf("Enter the number: ");
     scanf("%d",&num);
     
-    int num_copy=num, cube_sum=0;
-    while (num_copy!=0) {
-        cube_sum += (num_copy%10) * (num_copy%10) * (num_copy%10);
-        num_copy = num_copy/10;
-    }
-    if (num==cube_sum) {
+    if (is_armstrong(num)) {
         printf("%d is an armstrong number.",num);
     } else {
         printf("%d is not an armstrong number.",num);
