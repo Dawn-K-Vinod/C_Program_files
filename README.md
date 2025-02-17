@@ -53,6 +53,11 @@ This repository is a collection of C programs designed to solve common problems 
 | P-032 | `multiplication_table.c` | Generates the multiplication table for a given number |
 | P-033 | `multiplication_tables_within_a_range.c` | Generates multiplication tables within a given range |
 | P-034 | `roots_of_quadratic_equation.c` | Finds the roots of a quadratic equation |
+|35|||
+|36|||
+|37|||
+|38|||
+|39|||
 
 ---
 
