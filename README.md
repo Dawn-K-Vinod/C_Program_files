@@ -53,11 +53,13 @@ This repository is a collection of C programs designed to solve common problems 
 | P-032 | `multiplication_table.c` | Generates the multiplication table for a given number |
 | P-033 | `multiplication_tables_within_a_range.c` | Generates multiplication tables within a given range |
 | P-034 | `roots_of_quadratic_equation.c` | Finds the roots of a quadratic equation |
-|P-035|||
-|P-036|||
-|P-037|||
-|P-038|||
-|P-039|||
+| P-035 |`Armstrong_num_below_n.c`| Displays armstrong number below the given number |
+| P-036 |`number_pattern.c`| Displays numbers in a particular pattern |
+| P-037 |`ones_&_zeros_pattern.c`| Displays 1's and 0's in a right triangular pattern |
+| P-038 |`Floyd's_triangle.c`| Displays natural numbers from 1 to n in a triangular pattern |
+| P-039 |`Leap_year_check.c`| Checks whether the given year is Leap year or not |
+| P-040 |||
+| P-041 |||
 
 ---
 
