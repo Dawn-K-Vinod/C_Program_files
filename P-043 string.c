@@ -1,5 +1,8 @@
-
-// reading and displaying string
+/*
+Author      : Dawn K Vinod
+Date        : 22/02/2025
+Description : Reading and displaying string
+*/
 #include <stdio.h>
 
 int main() {
