@@ -1,4 +1,5 @@
 
+// reading and displaying string
 #include <stdio.h>
 
 int main() {
