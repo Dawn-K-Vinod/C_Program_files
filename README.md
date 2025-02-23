@@ -58,8 +58,12 @@ This repository is a collection of C programs designed to solve common problems 
 | P-037 |`ones_&_zeros_pattern.c`| Displays 1's and 0's in a right triangular pattern |
 | P-038 |`Floyd's_triangle.c`| Displays natural numbers from 1 to n in a triangular pattern |
 | P-039 |`Leap_year_check.c`| Checks whether the given year is Leap year or not |
-| P-040 |||
-| P-041 |||
+| P-040 | `Bubble_sort.c`| Implements the Bubble Sort algorithm to sort an array |
+| P-041 | `Matrix_of_any_order.c`| Handles matrix operations for a matrix of any order |
+| P-042 | `matrix_addition.c`| Performs addition of two matrices |
+| P-043 | `string.c`| Demonstrates basic string operations in C |
+| P-044 | `str_concatenation_1.c`| Concatenates two strings using a user-defined function for reading string |
+| P-044 | `str_concatenation_2.c`| Concatenates two strings using built-in string functions (better)|
 
 ---
 
