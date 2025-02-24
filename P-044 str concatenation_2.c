@@ -1,9 +1,9 @@
 /*
-Author : Dawn k vinod
+Author : Dawn K Vinod
 Date : 23/02/2025
-Description : Concatenate two strings
-Input : Read two strings from the user
-Output : Display the concatenated string
+Description : Concatenate two strings.
+Input : Read two strings from the user.
+Output : Display the concatenated string.
 */
 
 #include <stdio.h>
