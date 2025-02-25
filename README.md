@@ -61,9 +61,19 @@ This repository is a collection of C programs designed to solve common problems 
 | P-040 | `Bubble_sort.c`| Implements the Bubble Sort algorithm to sort an array |
 | P-041 | `Matrix_of_any_order.c`| Handles matrix operations for a matrix of any order |
 | P-042 | `matrix_addition.c`| Performs addition of two matrices |
-| P-043 | `string.c`| Demonstrates basic string operations in C |
-| P-044 | `str_concatenation_1.c`| Concatenates two strings using a user-defined function for reading string |
-| P-044 | `str_concatenation_2.c`| Concatenates two strings using built-in string functions (better)|
+| P-043 | `Sum_of_elements_of_matrix.c` | Computes the sum of all elements in a matrix |
+| P-044 | `Trace_of_matrix.c` | Calculates the trace (sum of diagonal elements) of a matrix |
+| P-045 | `Matrix_multiplication.c` | Performs multiplication of two matrices |
+| P-046 | `string.c` | Demonstrates basic string operations in C |
+| P-047 | `str_concatenation_1.c`| Concatenates two strings using a user-defined function for reading string |
+| P-047 | `str_concatenation_2.c`| Concatenates two strings using built-in string functions (better)|
+| P-048 | `string_reverse.c` | Reverses a given string |
+| P-049 | `str_comparison_using_strcmp.c` | Compares two strings using `strcmp()` |
+| P-050 | `freq_of_characters.c` | Counts the frequency of characters in a string |
+| P-051 | `vowels_and_consonants_count.c` | Counts the number of vowels and consonants in a string |
+| P-052 | `str_swapcase.c` | Swaps the case of each character in a string |
+| P-053 | `str_palindrome_or_not.c` | Checks if a string is a palindrome |
+
 
 ---
 
