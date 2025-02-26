@@ -8,9 +8,8 @@ int main() {
 	int len=strlen(str);
 	int j=len-1;
 	
-	int i;
 	char temp;
-	for (i=0; i<len/2; i++,j--) {
+	for (int i=0; i<len/2; i++,j--) {
 		temp=str[i]; str[i]=str[j]; str[j]=temp;
 	}
 	
