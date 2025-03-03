@@ -1,7 +1,7 @@
 /*
 Author      : Dawn K Vinod
 Date        : 03/03/2025
-Description : Write a C program to copy one string to another without using strcpy().
+Description : Program to copy one string to another without using strcpy().
 */
 #include <stdio.h>
 
