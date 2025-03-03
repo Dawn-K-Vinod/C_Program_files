@@ -1,7 +1,7 @@
 /*
 Author      : Dawn K Vinod
 Date        : 03/03/2025
-Description : Write a C program to find the length of a string without using strlen().
+Description : Program to find the length of a string without using strlen().
 */
 
 #include <stdio.h>
