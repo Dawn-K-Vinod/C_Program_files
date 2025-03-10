@@ -28,6 +28,6 @@ int main() {
         str1[i+j] = str2[j];
     }
     str1[i+j]='\0';
-    printf("str3: %s",str1); 
+    printf("Concatenated string: %s",str1); 
     return 0;
 }
