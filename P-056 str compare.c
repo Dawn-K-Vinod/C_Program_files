@@ -34,7 +34,7 @@ int main() {
         printf("\nThe given two strings are equal.\n");
     } else if (result>0) {
         printf("\nThe string \"%s\" is greater than the other.\n",str1);
-    } else {
+    } else if (result<0) {
         printf("\nThe string \"%s\" is greater than the other.\n",str2);
     }
 	return 0;
