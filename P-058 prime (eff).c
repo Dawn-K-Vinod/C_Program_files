@@ -2,7 +2,7 @@
 #include <math.h>
 
 int isprime(int num) {
-    if (num%10==1 || num%10==3 || num%10==7 || num%10==9) {
+    if (num%10!=5) {
         if (num<2) { return 0;}
         if (num==2) { return 1;}
         if (num%2==0) { return 0;}
