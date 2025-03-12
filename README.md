@@ -73,7 +73,10 @@ This repository is a collection of C programs designed to solve common problems 
 | P-051 | `vowels_and_consonants_count.c` | Counts the number of vowels and consonants in a string |
 | P-052 | `str_swapcase.c` | Swaps the case of each character in a string |
 | P-053 | `str_palindrome_or_not.c` | Checks if a string is a palindrome |
-
+| P-054 | `str_length_without_using_strlen.c` | Calculates the length of a string without using `strlen()` |
+| P-055 | `str_copy.c` | Copies one string to another |
+| P-056 | `str_compare.c` | Compares two strings lexicographically |
+| P-057 | `2D_str_sorting.c` | Sorts a 2D array of strings |
 
 ---
 
