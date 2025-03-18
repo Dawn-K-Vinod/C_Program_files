@@ -22,6 +22,10 @@ int main() {
         scanf("%[^\n]",str);
 
         if (is_palindrome(str)){
-        printf("The given string '%s' is a palindrome.\n",str);}
+        printf("The given string '%s' is a palindrome.\n",str);
+        }
+        else {
+            printf("The given string '%s' is a palindrome.\n",str);
+        }
         return 0;
 }
