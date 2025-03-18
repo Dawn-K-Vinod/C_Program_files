@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int palindrome (char str[]) {
+int is_palindrome (char str[]) {
     int len=strlen(str);
         int j=len-1;
 
@@ -21,7 +21,7 @@ int main() {
         printf("Enter the string: ");
         scanf("%[^\n]",str);
 
-        if (palindrome(str)){
+        if (is_palindrome(str)){
         printf("The given string '%s' is a palindrome.\n",str);}
         return 0;
 }
