@@ -77,10 +77,10 @@ This repository is a collection of C programs designed to solve common problems 
 | P-055 | `str_copy.c` | Copies one string to another |
 | P-056 | `str_compare.c` | Compares two strings lexicographically |
 | P-057 | `2D_str_sorting.c` | Sorts a 2D array of strings |
-|||
-|||
-|||
-|||
+| P-058 |||
+| P-059 |||
+| P-060 |||
+| P-061 |||
 
 ---
 
