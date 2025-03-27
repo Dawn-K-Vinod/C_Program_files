@@ -1,3 +1,8 @@
+/*
+Author      :Dawn K Vinod
+Date        :26/03/2025
+Description :C program to swap the values inside two variables, using macros.
+*/
 #include <stdio.h>
 #define swap_var_val(num1,num2) temp=num1; num1=num2; num2=temp
 
