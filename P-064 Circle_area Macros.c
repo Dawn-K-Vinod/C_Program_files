@@ -1,3 +1,7 @@
+/*
+Author     : Dawn K Vinod
+Description: Area of circle and cylinder using Macros.
+*/
 #include <stdio.h>
 #define PI 3.14159
 #define circle_area(r) (PI * r * r)
