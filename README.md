@@ -1,3 +1,5 @@
+<img src="https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/C_banner.png" width="1000">
+
 # C Program Files  
 
 This repository contains various C programs written by **Dawn K Vinod**. These programs cover a range of topics, including array manipulation, matrix operations, mathematical calculations, and fundamental C programming concepts.
