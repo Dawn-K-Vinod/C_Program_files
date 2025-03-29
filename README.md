@@ -81,9 +81,8 @@ This repository is a collection of C programs designed to solve common problems 
 | P-059 |||
 | P-060 |||
 | P-061 |||
-
-[Top](#c-program-files)
 ---
+[Go to Top](#c-program-files)
 
 ## 🚀 Usage  
 
@@ -108,6 +107,7 @@ To use any of the C programs in this repository:
    ```sh
    ./hello
    ```
+[Go to Top](#c-program-files)
 
 ## 📌 Requirements  
 
@@ -115,9 +115,8 @@ Ensure you have a C compiler installed, such as **GCC (GNU Compiler Collection)*
 - For Windows: Follow this [guide](https://code.visualstudio.com/docs/cpp/config-mingw#_installing-the-mingww64-toolchain) to install and run GCC.
 - For Linux: Follow this [guide](https://code.visualstudio.com/docs/cpp/config-linux#_ensure-gcc-is-installed) to install and run GCC.
 
-
-
 ---
+[Go to Top](#c-program-files)
 
 ## 🤝 Contributing  
 
@@ -144,6 +143,7 @@ Contributions are welcome! If you want to add more C programs or improve existin
 6. **Create a Pull Request (PR) to the main branch on GitHub.**
 
 ---
+[Go to Top](#c-program-files)
 
 ## 📜 License  
 
@@ -151,8 +151,10 @@ This repository is licensed under the **MIT [LICENSE](https://opensource.org/lic
 Feel free to use, modify, and distribute the code as per the license terms.
 
 ---
+[Go to Top](#c-program-files)
 
 ## ⭐ Show Your Support  
 
 If you find this repository useful, please consider starring ⭐ the repo to show your support!
 
+[Go to Top](#c-program-files)
