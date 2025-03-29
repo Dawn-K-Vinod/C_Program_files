@@ -82,7 +82,7 @@ This repository is a collection of C programs designed to solve common problems 
 | P-060 |||
 | P-061 |||
 ---
-[Go to Top](#c-program-files)
+[⬆️ back to top](#c-program-files)
 
 ## 🚀 Usage  
 
