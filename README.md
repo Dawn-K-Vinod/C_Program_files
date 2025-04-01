@@ -79,6 +79,22 @@ This repository is a collection of C programs designed to solve common problems 
 | P-055 | `str_copy.c` | Copies one string to another |
 | P-056 | `str_compare.c` | Compares two strings lexicographically |
 | P-057 | `2D_str_sorting.c` | Sorts a 2D array of strings |
+| P-058 | `isprime_function.c` | Checks if a number is prime |
+| P-059 | `Efficient_prime_generator.c` | Generates prime numbers efficiently |
+| P-060 | `remove_all_spaces.c` | Removes all spaces from a string |
+| P-061 | `replace_word_in_str.c` | Replaces a word in a given string |
+| P-062 | `anagrams.c` | Checks if two strings are anagrams |
+| P-063 | `words_count.c` | Counts the number of words in a string |
+| P-064 | `first_non-repeating_character.c` | Finds the first non-repeating character in a string |
+| P-065 | `fibonacci_recursion.c` | Computes Fibonacci numbers using recursion |
+| P-066 | `Circle_area_Macros.c` | Calculates the area of a circle using macros |
+| P-067 | `swap_var_macros.c` | Swaps two variables using macros |
+| P-068 | `structure_reading_displaying.c` | Reads and displays structure data |
+| P-069 | `structure_inside_user-defined_function.c` | Demonstrates structures inside functions |
+| P-070 | `array_of_structures.c` | Implements an array of structures |
+| P-071 | `return_structure.c` | Returns a structure from a function |
+| P-072 | `structure_student.c` | Defines a student structure and manipulates data |
+
 
 ---
 [⬆️ back to top](#c-program-files)
