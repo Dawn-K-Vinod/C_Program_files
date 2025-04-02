@@ -24,77 +24,76 @@ This repository is a collection of C programs designed to solve common problems 
 | P-001 | [`Hello_World.c`](https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/P-001%20Hello%20World.c) | Simple Hello World program |
 | P-002 | [`%d_format_specifier.c`](https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/P-002%20%25d_format_specifier.c) | Demonstrates `%d` format specifier |
 | P-003 | [`%f_format_specifier.c`](https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/P-003%20%25f_format_specifier.c) | Demonstrates `%f` format specifier |
-| P-004 | `largest_of_three_numbers.c` | Finds the largest of three numbers |
-| P-005 | `eligibility_for_vote.c` | Checks if a person is eligible to vote |
-| P-006 | `positive_negative_or_zero.c` | Identifies if a number is positive, negative, or zero |
-| P-007 | `swap_two_variables.c` | Swaps two variables without a third variable |
-| P-008 | `length_of_a_number.c` | Finds the length of a given number |
-| P-009 | `N_natural_numbers.c` | Prints the first N natural numbers |
-| P-010 | `reverse_any_number.c` | Reverses a given number |
-| P-011 | `palindrome.c` | Checks if a number is a palindrome |
-| P-012 | `simple_calculator.c` | Performs basic arithmetic operations |
-| P-013 | `even_upto_limit.c` | Prints even numbers up to a given limit |
-| P-014 | `largest_digit.c` | Finds the largest digit in a number |
-| P-015 | `prime_or_not.c` | Checks if a number is prime |
-| P-016 | `prime_numbers_upto_N.c` | Prints all prime numbers up to N |
-| P-017 | `Armstrong_or_not.c` | Checks if a number is an Armstrong number |
-| P-018 | `factorial.c` | Calculates the factorial of a number |
-| P-019 | `distinct_digit_in_a_num_in_words.c` | Converts distinct digits of a number into words |
-| P-020 | `sum_of_first_&_last_digits.c` | Finds the sum of the first and last digits of a number |
-| P-021 | `vowel_or_consonant.c` | Checks if a character is a vowel or consonant |
-| P-022 | `sum_of_even_numbers_in_given_range.c` | Finds the sum of even numbers in a range |
-| P-023 | `count_of_digits.c` | Counts the number of digits in a number |
-| P-024 | `perfect_number_or_not.c` | Checks if a number is perfect |
-| P-025 | `GCD_or_HCF.c` | Finds the GCD or HCF of two numbers |
-| P-026 | `sum_of_first_&_last_digit_using_math.c` | Finds the sum of the first and last digit using math operations |
-| P-027 | `max_&_min_of_an_array.c` | Finds the maximum and minimum of an array |
-| P-028 | `search_in_array.c` | Searches for an element in an array |
-| P-029 | `copy_array.c` | Copies elements from one array to another |
-| P-030 | `freq_of_given_number_in_array.c` | Finds the frequency of a given number in an array |
-| P-031 | `prime_numbers_within_range.c` | Finds prime numbers in a given range |
-| P-032 | `multiplication_table.c` | Generates the multiplication table for a given number |
-| P-033 | `multiplication_tables_within_a_range.c` | Generates multiplication tables within a given range |
-| P-034 | `roots_of_quadratic_equation.c` | Finds the roots of a quadratic equation |
-| P-035 |`Armstrong_num_below_n.c`| Displays armstrong number below the given number |
-| P-036 |`number_pattern.c`| Displays numbers in a particular pattern |
-| P-037 |`ones_&_zeros_pattern.c`| Displays 1's and 0's in a right triangular pattern |
-| P-038 |`Floyd's_triangle.c`| Displays natural numbers from 1 to n in a triangular pattern |
-| P-039 |`Leap_year_check.c`| Checks whether the given year is Leap year or not |
-| P-040 | `Bubble_sort.c`| Implements the Bubble Sort algorithm to sort an array |
-| P-041 | `Matrix_of_any_order.c`| Handles matrix operations for a matrix of any order |
-| P-042 | `matrix_addition.c`| Performs addition of two matrices |
-| P-043 | `Sum_of_elements_of_matrix.c` | Computes the sum of all elements in a matrix |
-| P-044 | `Trace_of_matrix.c` | Calculates the trace (sum of diagonal elements) of a matrix |
-| P-045 | `Matrix_multiplication.c` | Performs multiplication of two matrices |
-| P-046 | `string.c` | Demonstrates basic string operations in C |
-| P-047 | `str_concatenation_1.c`| Concatenates two strings using a user-defined function for reading string |
-| P-047 | `str_concatenation_2.c`| Concatenates two strings using built-in string functions (better)|
-| P-048 | `string_reverse.c` | Reverses a given string |
-| P-049 | `str_comparison_using_strcmp.c` | Compares two strings using `strcmp()` |
-| P-050 | `freq_of_characters.c` | Counts the frequency of characters in a string |
-| P-051 | `vowels_and_consonants_count.c` | Counts the number of vowels and consonants in a string |
-| P-052 | `str_swapcase.c` | Swaps the case of each character in a string |
-| P-053 | `str_palindrome_or_not.c` | Checks if a string is a palindrome |
-| P-054 | `str_length_without_using_strlen.c` | Calculates the length of a string without using `strlen()` |
-| P-055 | `str_copy.c` | Copies one string to another |
-| P-056 | `str_compare.c` | Compares two strings lexicographically |
-| P-057 | `2D_str_sorting.c` | Sorts a 2D array of strings |
-| P-058 | `isprime_function.c` | Checks if a number is prime |
-| P-059 | `Efficient_prime_generator.c` | Generates prime numbers efficiently |
-| P-060 | `remove_all_spaces.c` | Removes all spaces from a string |
-| P-061 | `replace_word_in_str.c` | Replaces a word in a given string |
-| P-062 | `anagrams.c` | Checks if two strings are anagrams |
-| P-063 | `words_count.c` | Counts the number of words in a string |
-| P-064 | `first_non-repeating_character.c` | Finds the first non-repeating character in a string |
-| P-065 | `fibonacci_recursion.c` | Computes Fibonacci numbers using recursion |
-| P-066 | `Circle_area_Macros.c` | Calculates the area of a circle using macros |
-| P-067 | `swap_var_macros.c` | Swaps two variables using macros |
-| P-068 | `structure_reading_displaying.c` | Reads and displays structure data |
-| P-069 | `structure_inside_user-defined_function.c` | Demonstrates structures inside functions |
-| P-070 | `array_of_structures.c` | Implements an array of structures |
-| P-071 | `return_structure.c` | Returns a structure from a function |
-| P-072 | `structure_student.c` | Defines a student structure and manipulates data |
-
+| P-004 | [`largest_of_three_numbers.c`](https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/P-004%20Largest%20of%20three%20numbers.c) | Finds the largest of three numbers |
+| P-005 | [`eligibility_for_vote.c`](https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/P-005%20eligibility_for_vote.c) | Checks if a person is eligible to vote |
+| P-006 | [`positive_negative_or_zero.c`](https://github.com/Dawn-K-Vinod/C_Program_files/blob/main/P-006%20positive%2C%20negative%20or%20zero.c) | Identifies if a number is positive, negative, or zero |
+| P-007 | [`swap_two_variables.c`]() | Swaps two variables without a third variable |
+| P-008 | [`length_of_a_number.c`]() | Finds the length of a given number |
+| P-009 | [`N_natural_numbers.c`]() | Prints the first N natural numbers |
+| P-010 | [`reverse_any_number.c`]() | Reverses a given number |
+| P-011 | [`palindrome.c`]() | Checks if a number is a palindrome |
+| P-012 | [`simple_calculator.c`]() | Performs basic arithmetic operations |
+| P-013 | [`even_upto_limit.c`]() | Prints even numbers up to a given limit |
+| P-014 | [`largest_digit.c`]() | Finds the largest digit in a number |
+| P-015 | [`prime_or_not.c`]() | Checks if a number is prime |
+| P-016 | [`prime_numbers_upto_N.c`]() | Prints all prime numbers up to N |
+| P-017 | [`Armstrong_or_not.c`]() | Checks if a number is an Armstrong number |
+| P-018 | [`factorial.c`]() | Calculates the factorial of a number |
+| P-019 | [`distinct_digit_in_a_num_in_words.c`]() | Converts distinct digits of a number into words |
+| P-020 | [`sum_of_first_&_last_digits.c`]() | Finds the sum of the first and last digits of a number |
+| P-021 | [`vowel_or_consonant.c`]() | Checks if a character is a vowel or consonant |
+| P-022 | [`sum_of_even_numbers_in_given_range.c`]() | Finds the sum of even numbers in a range |
+| P-023 | [`count_of_digits.c`]() | Counts the number of digits in a number |
+| P-024 | [`perfect_number_or_not.c`]() | Checks if a number is perfect |
+| P-025 | [`GCD_or_HCF.c`]() | Finds the GCD or HCF of two numbers |
+| P-026 | [`sum_of_first_&_last_digit_using_math.c`]() | Finds the sum of the first and last digit using math operations |
+| P-027 | [`max_&_min_of_an_array.c`]() | Finds the maximum and minimum of an array |
+| P-028 | [`search_in_array.c`]() | Searches for an element in an array |
+| P-029 | [`copy_array.c`]() | Copies elements from one array to another |
+| P-030 | [`freq_of_given_number_in_array.c`]() | Finds the frequency of a given number in an array |
+| P-031 | [`prime_numbers_within_range.c`]() | Finds prime numbers in a given range |
+| P-032 | [`multiplication_table.c`]() | Generates the multiplication table for a given number |
+| P-033 | [`multiplication_tables_within_a_range.c`]() | Generates multiplication tables within a given range |
+| P-034 | [`roots_of_quadratic_equation.c`]() | Finds the roots of a quadratic equation |
+| P-035 | [`Armstrong_num_below_n.c`]() | Displays Armstrong numbers below the given number |
+| P-036 | [`number_pattern.c`]() | Displays numbers in a particular pattern |
+| P-037 | [`ones_&_zeros_pattern.c`]() | Displays 1's and 0's in a right triangular pattern |
+| P-038 | [`Floyd's_triangle.c`]() | Displays natural numbers from 1 to n in a triangular pattern |
+| P-039 | [`Leap_year_check.c`]() | Checks whether the given year is a Leap year or not |
+| P-040 | [`Bubble_sort.c`]() | Implements the Bubble Sort algorithm to sort an array |
+| P-041 | [`Matrix_of_any_order.c`]() | Handles matrix operations for a matrix of any order |
+| P-042 | [`matrix_addition.c`]() | Performs addition of two matrices |
+| P-043 | [`Sum_of_elements_of_matrix.c`]() | Computes the sum of all elements in a matrix |
+| P-044 | [`Trace_of_matrix.c`]() | Calculates the trace (sum of diagonal elements) of a matrix |
+| P-045 | [`Matrix_multiplication.c`]() | Performs multiplication of two matrices |
+| P-046 | [`string.c`]() | Demonstrates basic string operations in C |
+| P-047 | [`str_concatenation_1.c`]() | Concatenates two strings using a user-defined function for reading string |
+| P-047 | [`str_concatenation_2.c`]() | Concatenates two strings using built-in string functions (better)|
+| P-048 | [`string_reverse.c`]() | Reverses a given string |
+| P-049 | [`str_comparison_using_strcmp.c`]() | Compares two strings using `strcmp()` |
+| P-050 | [`freq_of_characters.c`]() | Counts the frequency of characters in a string |
+| P-051 | [`vowels_and_consonants_count.c`]() | Counts the number of vowels and consonants in a string |
+| P-052 | [`str_swapcase.c`]() | Swaps the case of each character in a string |
+| P-053 | [`str_palindrome_or_not.c`]() | Checks if a string is a palindrome |
+| P-054 | [`str_length_without_using_strlen.c`]() | Calculates the length of a string without using `strlen()` |
+| P-055 | [`str_copy.c`]() | Copies one string to another |
+| P-056 | [`str_compare.c`]() | Compares two strings lexicographically |
+| P-057 | [`2D_str_sorting.c`]() | Sorts a 2D array of strings |
+| P-058 | [`isprime_function.c`]() | Checks if a number is prime |
+| P-059 | [`Efficient_prime_generator.c`]() | Generates prime numbers efficiently |
+| P-060 | [`remove_all_spaces.c`]() | Removes all spaces from a string |
+| P-061 | [`replace_word_in_str.c`]() | Replaces a word in a given string |
+| P-062 | [`anagrams.c`]() | Checks if two strings are anagrams |
+| P-063 | [`words_count.c`]() | Counts the number of words in a string |
+| P-064 | [`first_non-repeating_character.c`]() | Finds the first non-repeating character in a string |
+| P-065 | [`fibonacci_recursion.c`]() | Computes Fibonacci numbers using recursion |
+| P-066 | [`Circle_area_Macros.c`]() | Calculates the area of a circle using macros |
+| P-067 | [`swap_var_macros.c`]() | Swaps two variables using macros |
+| P-068 | [`structure_reading_displaying.c`]() | Reads and displays structure data |
+| P-069 | [`structure_inside_user-defined_function.c`]() | Demonstrates structures inside functions |
+| P-070 | [`array_of_structures.c`]() | Implements an array of structures |
+| P-071 | [`return_structure.c`]() | Returns a structure from a function |
+| P-072 | [`structure_student.c`]() | Defines a student structure and manipulates data |
 
 ---
 [⬆️ back to top](#c-program-files)
