@@ -5,9 +5,9 @@ Description: C program to count the number of words in a given string. (Assume t
 */
 #include <stdio.h>
 int main() {
-    char words[30];
+    char words[100];
     printf("Enter a sentence: ");
-    scanf("%29[^\n]",words);
+    scanf("%99[^\n]",words);
     
     int word_count=0, cnt=0;
     
