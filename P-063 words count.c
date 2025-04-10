@@ -1,7 +1,7 @@
 /*
 Author: Dawn K Vinod
-Date: 11/03/2025
-Description: C program to count the number of words in a given string. (Assume that words are separated by one or more spaces)(without using any functions).
+Description: C program to count the number of words in a given string. 
+(Assume that words are separated by one or more spaces)(without using any functions).
 */
 #include <stdio.h>
 int main() {
@@ -9,24 +9,13 @@ int main() {
     printf("Enter a sentence: ");
     scanf("%99[^\n]",words);
     
-    int word_count=0, cnt=0;
-    
-    int i;
-    for (i=0; words[i]!='\0'; i++) {
-        
-        if (words[i]==' ') {
-            cnt++;
-            if (cnt>1) {
-                continue;
-            }
+    int word_count=0;
+
+    for (int i=0; words[i]!='\0'; i++) {
+        if (words[i]!=' ' && (words[i+1]==' ' || words[i+1]=='\0')) {
             word_count++;
-        } else {
-            cnt=0;
         }
     }
-    if (words[i-1]!=' ') {
-        word_count++;
-    }
-    printf("Number of words in the given string: %d",word_count);
+    printf("Word Count: %d\n",word_count);
     return 0;
 }
